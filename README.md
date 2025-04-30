@@ -1,5 +1,13 @@
-## Hi there 👋
+<h1 align="center"> 👋 Hi, I'm Jaime</h1>
+<p align="center">
+    Today is a gift, that's why <i>they</i> call it present<br>
+    - Oogway
+</p>
 
+<h2 align="center"> ✍️ Dev Quote</h2>
+<p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/> 
+</p>
 <!--
 **Eclodest/Eclodest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
